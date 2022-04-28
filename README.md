@@ -3,7 +3,9 @@
 
 ![Github Graph](https://activity-graph.herokuapp.com/graph?username=HWON0720&area=false&theme=xcode&hide_border=true)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HWON0720&repo=algorithm-by-python&&show_owner=true&theme=nightowl)](https://github.com/HWON0720/algorithm-by-python)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HWON0720&repo=TIL&&show_owner=true&theme=nightowl)](https://github.com/HWON0720/TIL)
+
 
 <!--
 **HWON0720/HWON0720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
