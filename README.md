@@ -1,5 +1,5 @@
 [![HWON0720's github stats](https://github-readme-stats.vercel.app/api?username=HWON0720&line_height=24&show_icons=true&count_private=true&hide=stars&theme=nightowl)](https://github.com/HWON0720)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HWON0720&layout=compact&theme=nightowl)](https://github.com/HWON0720)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HWON0720&layout=compact&width=150&theme=nightowl)](https://github.com/HWON0720)
 
 ![Github Graph](https://activity-graph.herokuapp.com/graph?username=HWON0720&area=false&theme=xcode&hide_border=true)
 
