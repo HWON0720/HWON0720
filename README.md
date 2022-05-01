@@ -1,7 +1,7 @@
 [![HWON0720's github stats](https://github-readme-stats.vercel.app/api?username=HWON0720&line_height=24&width=150&show_icons=true&count_private=true&hide=stars&theme=nightowl)](https://github.com/HWON0720)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HWON0720&layout=compact&theme=nightowl)](https://github.com/HWON0720)
 
-![Github Graph](https://activity-graph.herokuapp.com/graph?username=HWON0720&area=false&theme=xcode&hide_border=true)
+<!-- ![Github Graph](https://activity-graph.herokuapp.com/graph?username=HWON0720&area=false&theme=xcode&hide_border=true) -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HWON0720&repo=algorithm-by-python&&show_owner=true&theme=nightowl)](https://github.com/HWON0720/algorithm-by-python)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HWON0720&repo=TIL&&show_owner=true&theme=nightowl)](https://github.com/HWON0720/TIL)
