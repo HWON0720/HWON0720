@@ -1,6 +1,6 @@
 <div align="center">
 
-![Github Graph](https://activity-graph.herokuapp.com/graph?username=HWON0720&area=false&theme=xcode&hide_border=true)
+<!-- ![Github Graph](https://activity-graph.herokuapp.com/graph?username=HWON0720&area=false&theme=xcode&hide_border=true) -->
   
 <a href="https://github.com/HWON0720">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HWON0720&line_height=24&width=150&show_icons=true&count_private=true&theme=nightowl"/>&nbsp;
