@@ -7,7 +7,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HWON0720&layout=compact&theme=nightowl"/>
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HWON0720&repo=algorithm-by-python&&show_owner=true&width="200"&theme=nightowl)](https://github.com/HWON0720/algorithm-by-python)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HWON0720&repo=algorithm-by-python&&show_owner=true&width="200"&theme=nightowl)](https://github.com/HWON0720/algorithm-by-python) -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HWON0720&repo=TIL&&show_owner=true&width="150"&theme=nightowl)](https://github.com/HWON0720/TIL)
 
 </div>
